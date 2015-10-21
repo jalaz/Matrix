@@ -11,7 +11,7 @@ namespace Matrix.Tests
         //    var arr = new int[3, 2];
         //    var matrix = new CoolMatrix(arr);
 
-        //    var expectedSize = new Size(width: 3, height:2);
+        //    var expectedSize = new Size(width: 2, height:3);
 
         //    Assert.AreEqual(expectedSize, matrix.Size);
         //}
